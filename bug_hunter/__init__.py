@@ -1,0 +1,2 @@
+"""Localized bug hunter package."""
+
